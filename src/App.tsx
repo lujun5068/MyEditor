@@ -1,5 +1,4 @@
 import * as React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import BraftEditor from 'braft-editor';
 import 'braft-editor/dist/index.css';
